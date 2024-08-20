@@ -1,2 +1,4 @@
 #ignore node moudles 
 node_modules/*
+
+.next/*
