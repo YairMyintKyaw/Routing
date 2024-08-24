@@ -163,6 +163,13 @@ ul {
 .modal h1 {
   margin: 0;
 }
+.fullscreen-image{
+  width: 100%;
+  overflow: hidden;
+}
+.fullscreen-image img{
+  width: 100%;
+}
 
 #archive-header ul {
   display: flex;
